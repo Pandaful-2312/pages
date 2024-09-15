@@ -7,6 +7,14 @@ baseurl:          '/pages'
 
 permalink: /:categories/:year-:month-:day-:title:output_ext
 
+collections:
+  recommend:
+    output: true
+    permalink: /:collection/:path/
+  marks:
+    output: true
+    permalink: /:collection/:path/
+
 plugins:
     - jekyll-sitemap
     - jekyll-remote-theme
