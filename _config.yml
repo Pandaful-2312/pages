@@ -5,6 +5,9 @@ remote_theme: sighingnow/jekyll-gitbook
 plugins:
     - jekyll-sitemap
     - jekyll-remote-theme
+    - jekyll-feed
+    - jekyll-readme-index
+    - jemoji
 
 permalink: /:categories/:year-:month-:day-:title:output_ext
 
