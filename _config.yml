@@ -1,6 +1,6 @@
 title: Pandaful
 
-remote_theme: sighingnow/jekyll-gitbook
+theme: jekyll-theme-midnight
 
 plugins:
     - jekyll-sitemap
