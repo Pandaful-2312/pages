@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 冴えない彼女の育てかた
-permalink: saekano
+permalink: favorite/saekano
 ---
 
 ## 概要

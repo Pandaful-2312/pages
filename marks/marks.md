@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marks
-permalink: /marks
+permalink: marks
 ---
 ## Marks
 
