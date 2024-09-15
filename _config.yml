@@ -7,7 +7,7 @@ description: >
 theme: minima
 
 header_pages:
-  - recommend/recommend.md
+  - favorite/favorite.md
   - marks/marks.md
 
 plugins:
