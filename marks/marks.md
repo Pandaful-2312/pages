@@ -1,5 +1,6 @@
 ---
 title: Pandaful3
+category: Test
 layout: post
 ---
 ## Marks
