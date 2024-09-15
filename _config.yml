@@ -9,3 +9,6 @@ plugins:
     - jekyll-sitemap
     - jekyll-feed
     - jekyll-remote-theme
+
+minima:
+  skin: classic
