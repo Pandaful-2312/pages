@@ -5,3 +5,8 @@ remote_theme: sighingnow/jekyll-gitbook
 plugins:
     - jekyll-sitemap
     - jekyll-remote-theme
+
+ordered_collections:
+  - posts
+  - pages
+  - recommend
