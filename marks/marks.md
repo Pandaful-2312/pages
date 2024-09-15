@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Marks
-permalink: marks
 ---
 ## Marks
 
