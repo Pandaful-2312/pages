@@ -2,6 +2,15 @@ title: Pandaful
 
 theme: jekyll-theme-chirpy
 
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
+
 plugins:
     - jekyll-sitemap
     # - jekyll-remote-theme
