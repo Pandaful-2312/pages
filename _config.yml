@@ -3,7 +3,8 @@ title: Pandaful
 theme: minima
 
 header_pages:
-  - about.md
+  - recommend/recommend.md
+  - marks/marks.md
 
 plugins:
     - jekyll-sitemap
