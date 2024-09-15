@@ -1,6 +1,6 @@
 ---
 layout: page
-title: marks
+title: Marks
 permalink: marks
 ---
 ## Marks
