@@ -1,6 +1,6 @@
 ---
 title: Pandaful3
-layout: home
+layout: post
 ---
 ## Marks
 
