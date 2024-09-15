@@ -1,6 +1,7 @@
 ---
 layout: page
-title: recommend
+title: おすすめの作品
+permalink: recommend
 ---
 
 ## a
