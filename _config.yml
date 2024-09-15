@@ -1,7 +1,6 @@
 title: Pandaful
 
 theme: minima
-highlighter-theme: monokai
 
 plugins:
     - jekyll-sitemap
