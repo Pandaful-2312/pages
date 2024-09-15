@@ -5,6 +5,8 @@ remote_theme: sighingnow/jekyll-gitbook
 url:              'https://pandaful-2312.github.io'
 baseurl:          '/pages'
 
+permalink: /:categories/:year-:month-:day-:title:output_ext
+
 plugins:
     - jekyll-sitemap
     - jekyll-remote-theme

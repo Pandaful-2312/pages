@@ -1,7 +1,6 @@
 ---
 title: Pandaful3
 layout: home
-permalink: marks
 ---
 ## Marks
 
