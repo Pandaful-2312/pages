@@ -6,4 +6,4 @@ highlighter-theme: monokai
 plugins:
     - jekyll-sitemap
     - jekyll-feed
-    # - jekyll-remote-theme
+    - jekyll-remote-theme
