@@ -1,27 +1,7 @@
 title: Pandaful
 
-remote_theme: sighingnow/jekyll-gitbook
-
-url:              'https://pandaful-2312.github.io'
-baseurl:          '/pages'
-
-permalink: /:categories/:year-:month-:day-:title:output_ext
-
-collections:
-  recommend:
-    output: true
-    permalink: /:collection/:path/
-  marks:
-    output: true
-    permalink: /:collection/:path/
-
-ordered_collections:
-  - recommend
-  - marks
+remote_theme: jekyll-theme-chirpy
 
 plugins:
     - jekyll-sitemap
     - jekyll-remote-theme
-    - jekyll-feed
-    - jekyll-readme-index
-    - jemoji
