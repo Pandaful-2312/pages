@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: post
 title: Pandaful2
-permalink: ./recommend
+permalink: recommend
 ---
 
 ## a
