@@ -1,16 +1,8 @@
 title: Pandaful
 
-theme: jekyll-theme-chirpy
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+highlighter-theme: monokai
 
 plugins:
     - jekyll-sitemap
+    - jekyll-feed
     # - jekyll-remote-theme
