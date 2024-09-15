@@ -9,6 +9,8 @@ plugins:
     - jekyll-readme-index
     - jemoji
 
+rss: RSS
+
 permalink: /:categories/:year-:month-:day-:title:output_ext
 
 collections:
