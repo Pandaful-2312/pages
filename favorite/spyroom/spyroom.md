@@ -1,7 +1,7 @@
 ---
 layout: page
 title: スパイ教室
-parmalink: favorite/spyroom
+parmalink: spyroom
 ---
 
 ## 概要
