@@ -9,6 +9,7 @@ plugins:
     - jekyll-sitemap
     - jekyll-feed
     - jekyll-remote-theme
+    - jekyll-seo-tag
 
 minima:
   skin: classic
