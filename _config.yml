@@ -1,6 +1,6 @@
 title: Pandaful
 
-theme: minima
+theme: jekyll-theme-minima
 
 plugins:
     - jekyll-sitemap
