@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Pandaful2
+layout: post
 permalink: recommend
 ---
 
