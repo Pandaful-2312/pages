@@ -1,6 +1,6 @@
 title: Pandaful
 
-remote_theme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 plugins:
     - jekyll-sitemap
