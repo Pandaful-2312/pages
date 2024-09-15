@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ソードアート・オンライン
-parmalink: sao
+permalink: sao
 ---
 
 ## 概要
