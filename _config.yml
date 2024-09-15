@@ -15,6 +15,9 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
+  recommend:
+    output: true
+    permalink: /:collection/:path/
 
 ordered_collections:
   - posts
