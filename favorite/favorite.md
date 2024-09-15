@@ -10,7 +10,7 @@ permalink: favorite
 
 |タイトル|公開日|
 |:-:|:-:|
-|[五等分の花嫁](./gotobun)||
+|[五等分の花嫁](/gotobun)||
 |[冴えない彼女の育てかた](./favorite/saekano)||
 |[スパイ教室](./spyroom)||
 |[ソードアート・オンライン](./sao/sao.html)||
