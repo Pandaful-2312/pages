@@ -2,6 +2,9 @@ title: Pandaful
 
 remote_theme: sighingnow/jekyll-gitbook
 
+url:              'https://pandaful-2312.github.io'
+baseurl:          '/pages'
+
 plugins:
     - jekyll-sitemap
     - jekyll-remote-theme
