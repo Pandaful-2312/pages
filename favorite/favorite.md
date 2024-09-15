@@ -10,6 +10,6 @@ permalink: favorite
 
 |タイトル|公開日|
 |:-:|:-:|
-|[五等分の花嫁](./gotobun/)||
-|[冴えない彼女の育てかた](./saekano/)||
-|[ソードアート・オンライン](./sao/)||
+|[五等分の花嫁](./gotobun/gotobun.html)||
+|[冴えない彼女の育てかた](./saekano/saekano.html)||
+|[ソードアート・オンライン](./sao/sao.html)||
