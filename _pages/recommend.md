@@ -1,9 +1,7 @@
 ---
-title: Recommend
-author: Tao He
-date: 2019-04-27
-category: Jekyll
-layout: host
+layout: home
+title: Pandaful2
+permalink: /recommend
 ---
 
 ## a
