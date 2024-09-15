@@ -1,0 +1,6 @@
+title: Pandaful
+
+theme: minima
+
+plugins:
+    - jekyll-sitemap
