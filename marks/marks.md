@@ -1,6 +1,6 @@
 ---
+title: Pandaful3
 layout: home
-title: Pandaful2
 permalink: marks
 ---
 ## Marks
