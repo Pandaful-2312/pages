@@ -1,9 +1,7 @@
 ---
-layout: post
-title: Pandaful2
-permalink: recommend
+layout: page
 ---
 
-## a
+# a
 
 見た作品のなかでも特に好きな作品の特集
