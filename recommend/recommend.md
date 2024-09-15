@@ -1,9 +1,9 @@
 ---
-title: Why Jekyll with GitBook
+title: Recommend
 author: Tao He
 date: 2019-04-27
 category: Jekyll
-layout: post
+layout: host
 ---
 
 ## a
