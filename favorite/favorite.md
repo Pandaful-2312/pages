@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 好きな作品
-parmalink: favorite
+parmalink: /favorite
 ---
 
 ## 好きな作品

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Marks
+parmalink: /marks
 ---
 ## Marks
 
