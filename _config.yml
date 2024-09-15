@@ -4,4 +4,4 @@ theme: jekyll-theme-chirpy
 
 plugins:
     - jekyll-sitemap
-    - jekyll-remote-theme
+    # - jekyll-remote-theme
