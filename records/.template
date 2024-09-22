@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 
-permalink: marks/0000/0000
+category: movie
+permalink: records/0000/0000
 ---
 
 ## 見出し
@@ -9,4 +10,4 @@ permalink: marks/0000/0000
 ## リンク
 
 < [前回の投稿](./) > /
-< [次回の投稿](./marks) >
+< [次回の投稿](./records) >

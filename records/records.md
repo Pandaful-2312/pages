@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Marks
-permalink: marks
+title: Records
+permalink: records
 ---
-## Marks
+## Records
 
 見たコンテンツの感想を述べるだけ
 
