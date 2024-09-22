@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Favorite
-permalink: favorite
+title: Favorites
+permalink: favorites
 ---
 
 ## 好きな作品
