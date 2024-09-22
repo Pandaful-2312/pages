@@ -7,7 +7,7 @@ description: >
 theme: minima
 
 header_pages:
-  - favorite/favorites.md
+  - favorites/favorites.md
   - records/records.md
 
 plugins:
