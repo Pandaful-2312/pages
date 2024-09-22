@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 好きな作品
+title: Favorite
 permalink: favorite
 ---
 
-## Favorite
+## 好きな作品
 
 Recordsだけでは語りきれない！  
 見た作品のなかでも特に好きな作品の特集  
