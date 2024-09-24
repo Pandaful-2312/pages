@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Records
-permalink: records/index
+permalink: records
 ---
 
 見たコンテンツやイベントの感想を述べるだけ
