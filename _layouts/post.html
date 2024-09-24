@@ -42,7 +42,7 @@ layout: base
     {% endif %}
     
     {% if page.next %}
-      <a href="/pages{{ page.next.url }}" style="float: right;">{{ page.next.title }} →</a>
+      <a href="{{ page.next.url | relative_url }}" style="float: right;">{{ page.next.title }} →</a>
     {% endif %}
   </nav>
 
