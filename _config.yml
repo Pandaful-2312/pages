@@ -8,7 +8,7 @@ theme: minima
 
 header_pages:
   - favorites/favorites.md
-  - records.md
+  - records/records.md
 
 plugins:
     - jekyll-sitemap
