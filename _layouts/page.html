@@ -13,7 +13,7 @@ layout: base
 
   {% if page.tag %}
     <hr>
-    <h2>リンク</h2>
+    <h2>{{site.pages[0].title | escape}}</h2>
     <ul>
     {% for p in site.pages %}
       {% if p.tag == page.tag %}
