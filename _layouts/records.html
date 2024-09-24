@@ -33,7 +33,7 @@ layout: base
     {% endif %}
 
     <tr>
-      <td><a href="{{ post.url | relative_url }}">{{post.date | date: "%M/%D" }}</a></td>
+      <td><a href="{{ post.url | relative_url }}">{{post.date | date: "%m/%e" }}</a></td>
       <td>{{post.title | escape}}</td>
       <td>{{post.categories}}</td>
     </tr>
