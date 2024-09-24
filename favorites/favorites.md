@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: favorites
 title: Favorites
 permalink: favorites
 ---

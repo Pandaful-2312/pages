@@ -37,11 +37,16 @@ layout: base
   <!-- <a class="u-url" href="{{ page.url | relative_url }}" hidden></a> -->
   {% if page.tag %}
     <hr>
-    <h2>リンク</h2>
+    {% assign flag = 0 %}
     <ul>
     {% for p in site.pages %}
       {% if p.tag == page.tag %}
-      <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
+        {% if flag == 0 %}
+          <h2><a href="{{p.url | relative_url }}">{{p.title | escape}}</a></h2>
+          {% assign flag = 1 %}
+        {% else %}
+          <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
+        {% endif %}
       {% endif %}
     {% endfor %}
     {% for p in site.posts %}
