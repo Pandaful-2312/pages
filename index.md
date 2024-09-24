@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Pandaful 感想を述べるサイト
 permalink: /
 ---
