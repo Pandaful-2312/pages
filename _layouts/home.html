@@ -12,7 +12,7 @@ layout: base
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
-    <p>paginate</p>
+    <p>{{posts.size}}</p>
   {% else %}
     {% assign posts = site.posts %}
     <p>site</p>
