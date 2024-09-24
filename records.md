@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: records
 title: Records
 permalink: records
 ---
