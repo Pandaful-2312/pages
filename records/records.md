@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Records
-permalink: records/index
+permalink: records/index.html
 ---
 
 見たコンテンツやイベントの感想を述べるだけ
