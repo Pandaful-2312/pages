@@ -2,7 +2,7 @@
 layout: post
 title: 五等分の花嫁 ＊
 category: movie
-permalink: records/2024/0920
+date: 2024-09-20 12:00:00
 ---
 
 ## ファン待望の新婚旅行編！

@@ -18,3 +18,10 @@ plugins:
 
 minima:
   skin: auto
+
+# URL構造に年や月を含める設定
+permalink: /:year/:month/:day/:title/
+
+# ページネーション設定（必要に応じて）
+paginate: 5
+paginate_path: "/page:num/"

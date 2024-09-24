@@ -2,7 +2,7 @@
 layout: post
 title: 時々ボソッとロシア語でデレる隣のアーリャさん
 category: anime
-permalink: records/2024/0922-1
+date: 2024-09-22 12:00:00
 ---
 
 ## 王道ツンデレヒロインと天才頭脳戦!?

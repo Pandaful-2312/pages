@@ -2,7 +2,7 @@
 layout: post
 title: しかのこのこのここしたんたん
 category: anime
-permalink: records/2024/0923
+date: 2024-09-23 12:00:00
 ---
 
 ## 頭を空っぽにしてみるアニメ
