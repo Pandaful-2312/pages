@@ -3,6 +3,7 @@ layout: page
 title: 五等分の花嫁
 category: gotobun
 permalink: gotobun/index
+test: test
 ---
 
 ## 概要
