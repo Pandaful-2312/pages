@@ -38,29 +38,11 @@ layout: base
   
   <nav>
     {% if page.previous %}
-      <a href="/pages{{ page.previous.url }}" style="float: left;">← {{ page.previous.title }}</a>
+      <a href="{{ page.previous.url | relative_url }}" style="float: left;">← {{ page.previous.title }}</a>
     {% endif %}
     
     {% if page.next %}
       <a href="{{ page.next.url | relative_url }}" style="float: right;">{{ page.next.title }} →</a>
     {% endif %}
   </nav>
-
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p>paginator</p>
-  <ul>
-    {% for post in paginator.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
 </article>
