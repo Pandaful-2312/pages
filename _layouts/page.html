@@ -11,7 +11,9 @@ layout: base
     {{ content }}
   </div>
 
-  <p>test: {{site.categories.gotobun}}</p>
-  <p>test: {{site.pages}}</p>
+  
+  {% for page in site.pages %}
+    <p>{{page.path}}</p>
+  {% endfor %}
 
 </article>
