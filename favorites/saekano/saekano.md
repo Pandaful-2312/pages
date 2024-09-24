@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 冴えない彼女の育てかた
+tag: saekano
 permalink: saekano
 ---
 

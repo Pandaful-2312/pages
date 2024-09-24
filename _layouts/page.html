@@ -11,12 +11,20 @@ layout: base
     {{ content }}
   </div>
 
-  
-  {% for page in site.pages %}
-    <p>{{page.path}}, {{page.tag}}, {{page.dir}}</p>
-  {% endfor %}
-  {% for page in site.posts %}
-    <p>{{page.path}}, {{page.tag}}, {{page.dir}}</p>
-  {% endfor %}
-
+  {% if page.tag %}
+    <hr>
+    <h2>リンク</h2>
+    <ul>
+    {% for p in site.pages %}
+      {% if p.tag = page.tag}
+      <li><a href="{{p.url | relative_url }}">{{p.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% for p in site.posts %}
+      {% if p.tag = page.tag}
+      <li><a href="{{p.url | relative_url }}">{{p.title}}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
 </article>
