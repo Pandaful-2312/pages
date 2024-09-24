@@ -38,11 +38,11 @@ layout: base
   
   <nav>
     {% if page.previous %}
-      <a href="{{ page.previous.url }}">← {{ page.previous.title }}</a>
+      <a href="/pages{{ page.previous.url }}" style="float: left;">← {{ page.previous.title }}</a>
     {% endif %}
     
     {% if page.next %}
-      <a href="{{ page.next.url }}">{{ page.next.title }} →</a>
+      <a href="/pages{{ page.next.url }}" style="float: right;">{{ page.next.title }} →</a>
     {% endif %}
   </nav>
 </article>
