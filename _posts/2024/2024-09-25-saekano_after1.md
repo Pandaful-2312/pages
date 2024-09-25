@@ -5,7 +5,7 @@ category: novel
 date: 2024-09-25
 ---
 
-![表紙](./pic/20240925-saekano_after.PNG)
+![After-1 表紙]({{site.baseurl}}/pic/20240925-saekano_after.PNG)
 
 ## catch copy
 
