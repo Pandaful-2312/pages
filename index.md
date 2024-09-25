@@ -25,7 +25,7 @@ permalink: /
 
 ## ページ構成
 
-- [Records](./records/)：日々の記録
+- [Records](./records)：日々の記録
     - 2024
     - 2023
     - 2022
