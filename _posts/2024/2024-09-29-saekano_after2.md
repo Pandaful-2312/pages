@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 冴えない彼女の育てかた After 〜 Two Years Later 〜
-category: saekano
+category: novel
+tag: saekano
 date: 2024-09-29
 ---
 
-## 二人の関係性
-
 ![After2 表紙]({{site.baseurl}}/pic/saekano/fine/after-2.png)
+
+## 二人の関係性
 
 映画の入場者特典2周目！表紙の通り、英梨々回！
 
