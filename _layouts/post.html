@@ -34,13 +34,13 @@ layout: base
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  <nav>
+  <nav style="display: flex; justify-content: space-between;">
     {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" style="float: left;">← {{ page.previous.title }}</a>
+      <a href="{{ page.previous.url | relative_url }}">&lt; [{{ page.previous.title }}]</a>
     {% endif %}
     
     {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" style="float: right;">{{ page.next.title }} →</a>
+      <a href="{{ page.next.url | relative_url }}">[{{ page.next.title }}] &gt;</a>
     {% endif %}
   </nav>
 
