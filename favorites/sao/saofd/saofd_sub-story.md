@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ソードアート・オンライン フラクチュアード デイドリーム 〜サブストーリー〜
+title: ソードアート・オンライン フラクチュアード デイドリーム ~ サブストーリー ~
 permalink: sao/saofd/sub-story
 tag: sao
 ---

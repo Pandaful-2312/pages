@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ソードアート・オンライン フラクチュアード デイドリーム 〜メインストーリー〜
+title: ソードアート・オンライン フラクチュアード デイドリーム ~ メインストーリー ~
 permalink: sao/saofd/main-story
 tag: sao
 ---
