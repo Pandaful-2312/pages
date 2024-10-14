@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ソードアート・オンライン ~音楽~
+title: ソードアート・オンライン 〜音楽〜
 permalink: sao/music
 tag: sao
 ---
