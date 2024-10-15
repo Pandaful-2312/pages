@@ -2,7 +2,7 @@
 layout: page
 title: ソードアート・オンライン フラクチュアード デイドリーム ~ メインストーリー ~
 permalink: sao/saofd/main-story
-tags: sao
+tag: sao
 ---
 
 このゲームオリジナルのメインストーリー！  

@@ -2,7 +2,7 @@
 layout: page
 title: ソードアート・オンライン
 permalink: sao
-tags: sao
+tag: sao
 ---
 
 ## 概要

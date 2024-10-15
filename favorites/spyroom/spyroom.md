@@ -2,7 +2,7 @@
 layout: page
 title: スパイ教室
 permalink: spyroom
-tags: spyroom
+tag: spyroom
 ---
 
 ## 概要
