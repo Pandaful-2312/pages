@@ -5,6 +5,7 @@
     <ul>
     {% assign tagged_pages = site.pages | where_exp: "p", "p.tags contains current_page_tags" %}
     {% assign sorted_pages = tagged_pages | sort: "url" %}
+    {% current_page_tags %}
     {% for p in sorted_pages %}
         {% if flag == 0 %}
             <h2><a href="{{p.url | relative_url }}">{{p.title | escape}}</a></h2>
@@ -13,6 +14,7 @@
             <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
         {% endif %}
     {% endfor %}
+
     {% assign tagged_posts = site.posts | where_exp: "post", "post.tags contains current_page_tags" %}
     {% assign sorted_posts = tagged_posts | sort: "url" %}
     {% for p in sorted_posts %}
