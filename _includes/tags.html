@@ -3,6 +3,7 @@
     {% assign flag = 0 %}
     {%- assign current_page_tags = page.tags -%}
     <ul>
+    {% current_page_tags | inspect %}
     {% assign tagged_pages = site.pages | where: "tags", current_page_tags %}
     {% assign sorted_pages = tagged_pages | sort: "url" %}
     {% for p in sorted_pages %}
