@@ -49,26 +49,5 @@ layout: base
   </nav>
 
   <!-- <a class="u-url" href="{{ page.url | relative_url }}" hidden></a> -->
-  {% if page.tag %}
-    <hr>
-    {% assign flag = 0 %}
-    <ul>
-    {% for p in site.pages %}
-      {% if p.tag == page.tag %}
-        {% if flag == 0 %}
-          <h2><a href="{{p.url | relative_url }}">{{p.title | escape}}</a></h2>
-          {% assign flag = 1 %}
-        {% else %}
-          <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% for p in site.posts reversed %}
-      {% if p.tag == page.tag %}
-      <li><a href="{{p.url | relative_url }}">{{p.title | escape }} - {{p.date | date: "%Y/%m/%e"}}</a></li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-    <hr>
-  {% endif %}
+  {%- include tags.html -%}
 </article>

@@ -3,7 +3,7 @@ layout: post
 title: 冴えない彼女の育てかた After 〜 Three Years Later 〜
 category: novel
 date: 2024-10-15
-tag: saekano
+tags: saekano
 ---
 
 ![After-3 表紙]({{site.baseurl}}/pic/saekano/fine/after-3.png)

@@ -2,7 +2,7 @@
 layout: post
 title: 五等分の花嫁 ＊ *
 category: movie
-tag: gotobun
+tags: gotobun
 date: 2024-09-20
 ---
 

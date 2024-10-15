@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 冴えない彼女の育てかた ~音楽~
-tag: saekano
+tags: saekano
 permalink: saekano/music
 ---
 
