@@ -13,7 +13,7 @@
             <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
         {% endif %}
     {% endfor %}
-    {% assign tagged_posts = site.posts | where_exp: "p", "p.tags contains current_page_tags" %}
+    {% assign tagged_posts = site.posts | where_exp: "post", "post.tags contains current_page_tags" %}
     {% assign sorted_posts = tagged_posts | sort: "url" %}
     {% for p in sorted_posts %}
         <li><a href="{{p.url | relative_url }}">{{p.title | escape }} - {{p.date | date: "%Y/%m/%e"}}</a></li>
