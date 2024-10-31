@@ -258,11 +258,11 @@ Bestアルバムは2024/09/18に発売。
 
 続いて、中身のグッズの紹介。  
 ![ディスク集・アクスタ]({{site.baseurl}}/pic/gotobun/best_album/album2.jpg)  
-![缶バッチ]({{site.baseurl}}/pic/gotobun/best_album/album13.jpg)  
+![缶バッチ]({{site.baseurl}}/pic/gotobun/best_album/album3.jpg)  
 
 ディスク集とアクリルスタンド、缶バッチ。  
 
-![インタビュー集]({{site.baseurl}}/pic/gotobun/best_album/album.jpg)  
+![インタビュー集]({{site.baseurl}}/pic/gotobun/best_album/album4.jpg)  
 
 こちらが大本命！インタビュー集とカバーイラスト集！  
 このインタビューブックがほしいからこれを買ったと言っても過言ではないね。  
