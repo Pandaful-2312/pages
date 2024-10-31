@@ -6,8 +6,6 @@ date: 2024-09-25
 tag: saekano
 ---
 
-![After-1 表紙]({{site.baseurl}}/pic/saekano/fine/after-1.png)
-
 ## イチャイチャしてやんの…
 
 この短編小説は映画の入場者特典で全7巻、これはその1作目。  

@@ -6,8 +6,6 @@ date: 2024-10-15
 tag: saekano
 ---
 
-![After-3 表紙]({{site.baseurl}}/pic/saekano/fine/after-3.png)
-
 ## 最強コンビ解消!?
 
 時は流れて、倫也たちの卒業から3年後の夏休み明け。  

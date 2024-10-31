@@ -8,6 +8,8 @@ date: 2024-09-20
 
 ## ファン待望の新婚旅行編！
 
+![Goods]({{site.baseurl}}/pic/gotobun/ohana/ohana_goods.jpg)
+
 ### Firmarks
 
 評価：3.9
