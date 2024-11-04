@@ -3,7 +3,7 @@
     {% assign flag = 0 %}
     {%- assign current_page_tags = page.tag -%}
     <ul>
-    {% assign tagged_pages = site.pages | where_exp: "page", "page.tag contains current_page_tags or current_page_tags contains page.tag" %}
+    {% assign tagged_pages = site.pages | where_exp: "page", "page.tag contains current_page_tags" %}
     {% assign sorted_pages = tagged_pages | sort: "url" %}
     {% for p in sorted_pages %}
         {% if flag == 0 %}
