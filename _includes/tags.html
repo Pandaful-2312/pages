@@ -3,36 +3,21 @@
     {% assign flag = 0 %}
     {%- assign current_page_tags = page.tag -%}
     <ul>
-
-    <!-- 共通タグを持つページをフィルタリング -->
-    {% assign tagged_pages = site.pages | where_exp: "p", "p.tag | size > 0" %}
-    {% assign filtered_pages = "" %}
-    {% for p in tagged_pages %}
-        {% assign common_tags = p.tag | intersect: current_page_tags %}
-        {% if common_tags.size > 0 %}
-            {% assign filtered_pages = filtered_pages | append: p %}
-        {% endif %}
-    {% endfor %}
-
-    {% assign sorted_pages = filtered_pages | sort: "url" %}
+    {% assign tagged_pages = site.pages | where_exp: "page", "page.tag != ''" %}
+    {% assign sorted_pages = tagged_pages | sort: "url" %}
     {% for p in sorted_pages %}
-        {% if p.url != page.url %}
-            {% if flag == 0 %}
-                <h2><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></h2>
-                {% assign flag = 1 %}
-            {% else %}
-                <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a></li>
-            {% endif %}
+        {% if flag == 0 %}
+            <h2><a href="{{p.url | relative_url }}">{{p.title | escape}}</a></h2>
+            {% assign flag = 1 %}
+        {% else %}
+            <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
         {% endif %}
     {% endfor %}
 
-    <!-- 共通タグを持つ投稿をフィルタリング -->
-    {% assign tagged_posts = site.posts | where_exp: "post", "post.tag | size > 0" %}
-    {% for post in tagged_posts %}
-        {% assign common_tags = post.tag | intersect: current_page_tags %}
-        {% if common_tags.size > 0 %}
-            <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }} - {{ post.date | date: "%Y/%m/%d" }}</a></li>
-        {% endif %}
+    {% assign tagged_posts = site.posts | where_exp: "post", "post.tag contains current_page_tags" %}
+    {% assign sorted_posts = tagged_posts | sort: "url" %}
+    {% for p in sorted_posts %}
+        <li><a href="{{p.url | relative_url }}">{{p.title | escape }} - {{p.date | date: "%Y/%m/%e"}}</a></li>
     {% endfor %}
     </ul>
     <hr>
