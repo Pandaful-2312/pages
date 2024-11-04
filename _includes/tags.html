@@ -1,24 +1,26 @@
 {% if page.tag %}
-    <hr>
-    {% assign flag = 0 %}
-    {%- assign current_page_tags = page.tag -%}
-    <ul>
-    {% assign tagged_pages = site.pages | where_exp: "page", "page.tag contains current_page_tags" %}
-    {% assign sorted_pages = tagged_pages | sort: "url" %}
-    {% for p in sorted_pages %}
-        {% if flag == 0 %}
-            <h2><a href="{{p.url | relative_url }}">{{p.title | escape}}</a></h2>
-            {% assign flag = 1 %}
-        {% else %}
-            <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
-        {% endif %}
-    {% endfor %}
+    {% assign sortedTags = page.tag | split:',' | sort %}
+    {% for tag in sortedTags %}
+        <hr>
+        {% assign flag = 0 %}
+        <ul>
+        {% assign tagged_pages = site.pages | where_exp: "page", "page.tag contains tag" %}
+        {% assign sorted_pages = tagged_pages | sort: "url" %}
+        {% for p in sorted_pages %}
+            {% if flag == 0 %}
+                <h2><a href="{{p.url | relative_url }}">{{p.title | escape}}</a></h2>
+                {% assign flag = 1 %}
+            {% else %}
+                <li><a href="{{p.url | relative_url }}">{{p.title | escape }}</a></li>
+            {% endif %}
+        {% endfor %}
 
-    {% assign tagged_posts = site.posts | where_exp: "post", "post.tag contains current_page_tags" %}
-    {% assign sorted_posts = tagged_posts | sort: "url" %}
-    {% for p in sorted_posts %}
-        <li><a href="{{p.url | relative_url }}">{{p.title | escape }} - {{p.date | date: "%Y/%m/%e"}}</a></li>
+        {% assign tagged_posts = site.posts | where_exp: "post", "post.tag contains tag" %}
+        {% assign sorted_posts = tagged_posts | sort: "url" %}
+        {% for p in sorted_posts %}
+            <li><a href="{{p.url | relative_url }}">{{p.title | escape }} - {{p.date | date: "%Y/%m/%e"}}</a></li>
+        {% endfor %}
+        </ul>
+        <hr>
     {% endfor %}
-    </ul>
-    <hr>
 {% endif %}
