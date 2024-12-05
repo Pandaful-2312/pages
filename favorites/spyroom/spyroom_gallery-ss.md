@@ -14,9 +14,8 @@ tag: spyroom
 
 ## 概要
 
-ここでは「イラストGallery企画」について紹介！  
-そして原作者の竹町先生がこのイラストを振り返るSSを書いてくださっているのでそれも紹介！  
-（ありがてぇ）
+「イラストGallery企画」のまとめ  
+原作者の竹町先生がほとんどのイラストで振り返りSSを書いてくださっているのでそれを紹介！（ありがてぇ）
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">／<br>　イラストGallery企画<br>　開催のお知らせ⚜️<br>＼<br><br>本日から、毎週月曜日20時に<br>小説の挿絵イラストを<br>紹介していきます！<br><br>皆さんの好きなキャラクターや<br>お気に入りのシーンが投稿されたら<br>ぜひ、いいね＆RPなど<br>お願いいたします✨<a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2%E6%96%87%E5%BA%AB?src=hash&amp;ref_src=twsrc%5Etfw">#ファンタジア文庫</a><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#スパイ教室</a> <a href="https://twitter.com/hashtag/spyroom?src=hash&amp;ref_src=twsrc%5Etfw">#spyroom</a></p>&mdash; 『スパイ教室』公式 (@spy_tomoshibi) <a href="https://twitter.com/spy_tomoshibi/status/1812684180549230746?ref_src=twsrc%5Etfw">July 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -28,6 +27,7 @@ tag: spyroom
 
 ### 毒殺
 
+SSなし
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">⚜️Gallery⚜️ <br><br>「ごめんなさい、先生。<br>本気の本気です」<br><br>「コードネーム『花園』――<br>咲き狂う時間です」<a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2%E6%96%87%E5%BA%AB?src=hash&amp;ref_src=twsrc%5Etfw">#ファンタジア文庫</a> <a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#スパイ教室</a> <a href="https://twitter.com/hashtag/spyroom?src=hash&amp;ref_src=twsrc%5Etfw">#spyroom</a> <a href="https://t.co/0JRRdBmSKW">pic.twitter.com/0JRRdBmSKW</a></p>&mdash; 『スパイ教室』公式 (@spy_tomoshibi) <a href="https://twitter.com/spy_tomoshibi/status/1815341212951568562?ref_src=twsrc%5Etfw">July 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 初の追い込み
@@ -50,6 +50,7 @@ tag: spyroom
 
 ### 頼れるサポート！
 
+SSなし
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">⚜️Gallery⚜️ <br><br>「サポートを届けにきたっすよ」<br>「サポートっ？」<br><br>「「鷹……？」」<a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2%E6%96%87%E5%BA%AB?src=hash&amp;ref_src=twsrc%5Etfw">#ファンタジア文庫</a> <a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#スパイ教室</a> <a href="https://twitter.com/hashtag/spyroom?src=hash&amp;ref_src=twsrc%5Etfw">#spyroom</a> <a href="https://t.co/jzAz2SG9iL">pic.twitter.com/jzAz2SG9iL</a></p>&mdash; 『スパイ教室』公式 (@spy_tomoshibi) <a href="https://twitter.com/spy_tomoshibi/status/1828024842668454062?ref_src=twsrc%5Etfw">August 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 愛娘
