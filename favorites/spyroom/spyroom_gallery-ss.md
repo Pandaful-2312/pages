@@ -38,7 +38,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アネット「兄貴って変装もするんですねっ」<br>クラウス「スパイとして当然の嗜みだ」<br>サラ「もっと見てみたいっす、ボスの変装姿」<br>クラウス「毎週しているよ。僕の変装が巧み過ぎて、お前たちが気づかないだけだ」<br>サラ・アネット「⁉」… <a href="https://t.co/V9TCKXEa9c">https://t.co/V9TCKXEa9c</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1820431910625333651?ref_src=twsrc%5Etfw">August 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 7人目！登場！
+### 8人目！登場！
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ「……？」<br>エルナ「どうしたの？」<br>リリィ「『過酷』だったんですか？」<br>エルナ「過酷なの‼」<br>リリィ「⁉　いや、だってギードさんに立ち向かったメンバーも大変で……」<br>エルナ「潜入中、ジビアお姉ちゃんが背負うカバンにいたの」<br>リリィ「……あぁ、もう全て納得」… <a href="https://t.co/cFeZySFuqp">https://t.co/cFeZySFuqp</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1822974884911411623?ref_src=twsrc%5Etfw">August 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -67,7 +67,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">サラ　　「アネット先輩の嘘泣きもいつか見てみたいっすね」<br>アネット「俺様っ、今度挑戦しますねっ！」<br>クラウス「……これが例の女性か。『狐媚』というコードネームだったか。巧みな演技だ」<br>モニカ　「え、なんで普通に会話してんの。コイツら」<br>ティア　「コメントに困るのよね、色々と」<br>エルナ… <a href="https://t.co/yJTJb6mVJI">https://t.co/yJTJb6mVJI</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1836012786583003507?ref_src=twsrc%5Etfw">September 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### ピリつく現場
+### 旅行？
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ティア「そういえば、クラウス先生と二人きりだったのよね。私たちを探しに来た時」<br>リリィ「はい。グレーテちゃんたちは、急遽クラウス先生が行けなくなった任務の穴埋めに」<br>エルナ「凄いの、お姉ちゃんたち……！」<br>ジビア「まぁ、一日そこらで帰ってきたしな」<br>サラ… <a href="https://t.co/6zFYvCXoWE">https://t.co/6zFYvCXoWE</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1838548537782735340?ref_src=twsrc%5Etfw">September 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -89,7 +89,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">（とりあえず縛られて、別部屋に運ばれるリリィ）<br><br>モニカ「またボクのこと、擦るの⁉」<br>グレーテ「……まさか、ここでも匂わせているなんて」<br>エルナ「凄いの。情報を小出しにしているの」<br>アネット「めんどくさい姉貴ですね！」<br>ジビア「さすがに、別の話題でよくねぇか？」… <a href="https://t.co/1SBVLEUcsD">https://t.co/1SBVLEUcsD</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1852684965026398619?ref_src=twsrc%5Etfw">November 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### リーダーの励まし
+### アネットの励まし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ティア「アネットがリリィからの伝言を託し、私を励ましてくれた……！　感動の一幕ね」<br>リリィ「…………」<br>ジビア「…………あ、いや……」<br>モニカ「なんと、いうか……ねぇ」<br>ティア「どうかしたの？　煮え切らないわね」<br>リリィ「いや、このシーンのアネットちゃん」… <a href="https://t.co/zfuIPGOjKZ">https://t.co/zfuIPGOjKZ</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1854151867867299919?ref_src=twsrc%5Etfw">November 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
