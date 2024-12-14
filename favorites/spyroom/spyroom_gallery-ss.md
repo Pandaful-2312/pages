@@ -114,3 +114,7 @@ SSなし
 ### 不屈のリーダー
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ティア　「ヴィンドさんにボコられた直後ね」<br>リリィ　「……？　蚊に刺された？」<br>ジビア　「殴られ慣れた強者のセリフ」<br>モニカ　「『灯』のサンドバッグ」<br>キュール「不死身なの、この子？」<br>アネット「実際はどうなんですっ？」<br>リリィ　「死にかけた！」<br>クノー… <a href="https://t.co/yBdULdyA5f">https://t.co/yBdULdyA5f</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1864657312612577746?ref_src=twsrc%5Etfw">December 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### のぉぉぉ！
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「『灯』と『鳳』の対決……エルナが『灯』の勝利を決めたの……！」<br>リリィ　「さすがですね、エルナちゃん！」<br>アネット「この気迫！　俺様も褒めてやりますっ！」<br>キュール「いや、勝ててないよね？」<br>クノー　「……是。歴史を改竄するな」<br>エルナ　「のぉ……不幸……」<br>ティア… <a href="https://t.co/2JVfie63UI">https://t.co/2JVfie63UI</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1867549199904178197?ref_src=twsrc%5Etfw">December 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
