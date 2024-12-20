@@ -118,3 +118,7 @@ SSなし
 ### のぉぉぉ！
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「『灯』と『鳳』の対決……エルナが『灯』の勝利を決めたの……！」<br>リリィ　「さすがですね、エルナちゃん！」<br>アネット「この気迫！　俺様も褒めてやりますっ！」<br>キュール「いや、勝ててないよね？」<br>クノー　「……是。歴史を改竄するな」<br>エルナ　「のぉ……不幸……」<br>ティア… <a href="https://t.co/2JVfie63UI">https://t.co/2JVfie63UI</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1867549199904178197?ref_src=twsrc%5Etfw">December 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 尋問耐久ランキング!?
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「………………」<br>エルナ　「………………」<br>サラ　　「………………」<br>モニカ　「空気、重っ」<br>グレーテ「実際、重い展開が続きますからね」<br>ジビア　「あ、『鳳』の連中もたまに来るらしいって」<br>一同　　「！？！？？！」<br>ティア（もう時系列とか細かい矛盾はとことん無視なのね……）… <a href="https://t.co/iZetbt7nig">https://t.co/iZetbt7nig</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1869711078340612207?ref_src=twsrc%5Etfw">December 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
