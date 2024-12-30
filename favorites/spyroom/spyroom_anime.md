@@ -1,6 +1,6 @@
 ---
 layout: page
-title: スパイ教室
+title: スパイ教室 アニメ
 permalink: spyroom/anime
 tag: spyroom
 ---
