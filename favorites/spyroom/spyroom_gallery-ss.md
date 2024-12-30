@@ -6,11 +6,12 @@ tag: spyroom
 ---
 
 - [概要](#概要)
-- [1巻 リリィ](#1巻-リリィ)
-- [2巻 グレーテ](#2巻-グレーテ)
-- [3巻 アネット](#3巻-アネット)
-- [4巻 ティア](#4巻-ティア)
-- [5巻 エルナ](#5巻-エルナ)
+- [1巻 花園 リリィ](#1巻-花園-リリィ)
+- [2巻 愛娘 グレーテ](#2巻-愛娘-グレーテ)
+- [3巻 忘我 アネット](#3巻-忘我-アネット)
+- [4巻 夢語 ティア](#4巻-夢語-ティア)
+- [5巻 愚人 エルナ](#5巻-愚人-エルナ)
+- [6巻 百鬼 ジビア](#6巻-百鬼-ジビア)
 
 ## 概要
 
@@ -19,7 +20,7 @@ tag: spyroom
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">／<br>　イラストGallery企画<br>　開催のお知らせ⚜️<br>＼<br><br>本日から、毎週月曜日20時に<br>小説の挿絵イラストを<br>紹介していきます！<br><br>皆さんの好きなキャラクターや<br>お気に入りのシーンが投稿されたら<br>ぜひ、いいね＆RPなど<br>お願いいたします✨<a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2%E6%96%87%E5%BA%AB?src=hash&amp;ref_src=twsrc%5Etfw">#ファンタジア文庫</a><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#スパイ教室</a> <a href="https://twitter.com/hashtag/spyroom?src=hash&amp;ref_src=twsrc%5Etfw">#spyroom</a></p>&mdash; 『スパイ教室』公式 (@spy_tomoshibi) <a href="https://twitter.com/spy_tomoshibi/status/1812684180549230746?ref_src=twsrc%5Etfw">July 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 1巻 リリィ
+## 1巻 花園 リリィ
 
 ### 先生との邂逅
 
@@ -42,7 +43,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ「……？」<br>エルナ「どうしたの？」<br>リリィ「『過酷』だったんですか？」<br>エルナ「過酷なの‼」<br>リリィ「⁉　いや、だってギードさんに立ち向かったメンバーも大変で……」<br>エルナ「潜入中、ジビアお姉ちゃんが背負うカバンにいたの」<br>リリィ「……あぁ、もう全て納得」… <a href="https://t.co/cFeZySFuqp">https://t.co/cFeZySFuqp</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1822974884911411623?ref_src=twsrc%5Etfw">August 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 2巻 グレーテ
+## 2巻 愛娘 グレーテ
 
 ### お祝い？
 
@@ -57,7 +58,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ティア「クラウス先生、何か一言！！」<br>ジビア「説明責任があるんじゃねぇのか⁉」<br>クラウス「……囲み取材を敢行するな」<br>アネット「でっ？　実際どうなんです？」<br>クラウス「グレーテ本人には既に、僕の気持ちは伝えてある。お前たちに明かすことは何もないよ」… <a href="https://t.co/BgeB9Qj1LS">https://t.co/BgeB9Qj1LS</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1830970886058569742?ref_src=twsrc%5Etfw">September 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 3巻 アネット
+## 3巻 忘我 アネット
 
 ### 自由奔放
 
@@ -75,7 +76,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア「リリィを隣室にぶち込んでおいた」<br>アネット「助かりますっ」<br>グレーテ「……そうしないと、モニカさんがまともに話せそうにありませんからね」<br>リリィ「！？！！？！（隣の部屋からの声）」<br><br>◇◇◇<br><br>ティア「この秘密を一切口外しなかった私は評価されていいと思わない？」… <a href="https://t.co/q8DYDz6Kfp">https://t.co/q8DYDz6Kfp</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1841088274879955456?ref_src=twsrc%5Etfw">October 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 4巻 ティア
+## 4巻 夢語 ティア
 
 ### 屍
 
@@ -97,7 +98,7 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ「ティアちゃんの活躍もさすがですが、フェロニカさんの凄さに驚くシーンでもありますね」<br>エルナ「そうなの……半年前から暗殺者に暗示を植えつけていたの？」<br>サラ　「ですね。『黒髪の英雄が救いに来る』と」<br>モニカ「どんな化け物って話だよ」… <a href="https://t.co/yjoCDdBIcD">https://t.co/yjoCDdBIcD</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1855596826692550976?ref_src=twsrc%5Etfw">November 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 5巻 エルナ
+## 5巻 愚人 エルナ
 
 ### エリート登場
 
@@ -119,6 +120,14 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「『灯』と『鳳』の対決……エルナが『灯』の勝利を決めたの……！」<br>リリィ　「さすがですね、エルナちゃん！」<br>アネット「この気迫！　俺様も褒めてやりますっ！」<br>キュール「いや、勝ててないよね？」<br>クノー　「……是。歴史を改竄するな」<br>エルナ　「のぉ……不幸……」<br>ティア… <a href="https://t.co/2JVfie63UI">https://t.co/2JVfie63UI</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1867549199904178197?ref_src=twsrc%5Etfw">December 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## 6巻 百鬼 ジビア
+
 ### 尋問耐久ランキング!?
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「………………」<br>エルナ　「………………」<br>サラ　　「………………」<br>モニカ　「空気、重っ」<br>グレーテ「実際、重い展開が続きますからね」<br>ジビア　「あ、『鳳』の連中もたまに来るらしいって」<br>一同　　「！？！？？！」<br>ティア（もう時系列とか細かい矛盾はとことん無視なのね……）… <a href="https://t.co/iZetbt7nig">https://t.co/iZetbt7nig</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1869711078340612207?ref_src=twsrc%5Etfw">December 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### アメリ VS クラウス
+
+SSなし
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">⚜Gallery⚜ <br><br>「ここでお前たちを傷つけることが、<br>なぜ両国の対立を生む？<br><br>――全員ここで死ぬのに」<a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2%E6%96%87%E5%BA%AB?src=hash&amp;ref_src=twsrc%5Etfw">#ファンタジア文庫</a> <a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#スパイ教室</a> <a href="https://twitter.com/hashtag/spyroom?src=hash&amp;ref_src=twsrc%5Etfw">#spyroom</a> <a href="https://t.co/8ieeQfN4dZ">pic.twitter.com/8ieeQfN4dZ</a></p>&mdash; 『スパイ教室』公式 (@spy_tomoshibi) <a href="https://twitter.com/spy_tomoshibi/status/1871149057965727772?ref_src=twsrc%5Etfw">December 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
