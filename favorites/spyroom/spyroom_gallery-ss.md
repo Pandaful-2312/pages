@@ -128,6 +128,4 @@ SSなし
 
 ### アメリ VS クラウス
 
-SSなし
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">⚜Gallery⚜ <br><br>「ここでお前たちを傷つけることが、<br>なぜ両国の対立を生む？<br><br>――全員ここで死ぬのに」<a href="https://twitter.com/hashtag/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2%E6%96%87%E5%BA%AB?src=hash&amp;ref_src=twsrc%5Etfw">#ファンタジア文庫</a> <a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%91%E3%82%A4%E6%95%99%E5%AE%A4?src=hash&amp;ref_src=twsrc%5Etfw">#スパイ教室</a> <a href="https://twitter.com/hashtag/spyroom?src=hash&amp;ref_src=twsrc%5Etfw">#spyroom</a> <a href="https://t.co/8ieeQfN4dZ">pic.twitter.com/8ieeQfN4dZ</a></p>&mdash; 『スパイ教室』公式 (@spy_tomoshibi) <a href="https://twitter.com/spy_tomoshibi/status/1871149057965727772?ref_src=twsrc%5Etfw">December 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「『全員口封じされなくなければ、ジビアちゃんを解放しろ』っていうシーンですね」<br>ジビア　「ゴッリゴリのパワー系交渉」<br>モニカ　「ただのチンピラじゃん」<br>ティア　「けど、結果的にアメリさんと一時的な協力関係を結べたのよね」<br>クラウス「……師匠仕込みの交渉術だ」… <a href="https://t.co/BzG9M69seN">https://t.co/BzG9M69seN</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1876968347130376220?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
