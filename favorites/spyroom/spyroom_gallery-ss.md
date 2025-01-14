@@ -129,3 +129,11 @@ SSなし
 ### アメリ VS クラウス
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「『全員口封じされなくなければ、ジビアちゃんを解放しろ』っていうシーンですね」<br>ジビア　「ゴッリゴリのパワー系交渉」<br>モニカ　「ただのチンピラじゃん」<br>ティア　「けど、結果的にアメリさんと一時的な協力関係を結べたのよね」<br>クラウス「……師匠仕込みの交渉術だ」… <a href="https://t.co/BzG9M69seN">https://t.co/BzG9M69seN</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1876968347130376220?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### ござござ
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア　（笑ってはいるが、マジで辛い時期なんだよな）<br>ティア　（……思い出すだけで、いまだ胸が痛くなる）<br>サラ　　（仲間を失った哀しみなんて想像したくもないっすよ……）<br>グレーテ（自分だけ生き残り、どれだけほど辛かったか……）<br>モニカ　（――という事実は当然、感じはするんだけど）… <a href="https://t.co/WYvC8lcMk3">https://t.co/WYvC8lcMk3</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1877341114056978735?ref_src=twsrc%5Etfw">January 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 連携
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アネット「ジビアの姉貴っ‼‼」<br>エルナ　「ジビアお姉ちゃんっ‼‼」<br>リリィ　「おねえちゃーん」<br>モニカ　「おねえちゃーん」<br>ジビア　「シバくぞ」<br>サラ　　「ジビア先輩とボスの共闘シーンっすね」<br>エルナ　「息ぴったり……完璧なの」<br>グレーテ「……羨ましいです。ボスと軽やかに舞えるなんて」… <a href="https://t.co/OC7jP89aXH">https://t.co/OC7jP89aXH</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1878071919771337199?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
