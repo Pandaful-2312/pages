@@ -124,16 +124,42 @@ SSなし
 
 ### 尋問耐久ランキング!?
 
+リリィが選ばれなかったわけは…  
+
+1. リリィ
+2. ジビア
+3. グレーテ
+4. サラ
+5. モニカ
+6. エルナ
+7. アネット
+8. ティア
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「………………」<br>エルナ　「………………」<br>サラ　　「………………」<br>モニカ　「空気、重っ」<br>グレーテ「実際、重い展開が続きますからね」<br>ジビア　「あ、『鳳』の連中もたまに来るらしいって」<br>一同　　「！？！？？！」<br>ティア（もう時系列とか細かい矛盾はとことん無視なのね……）… <a href="https://t.co/iZetbt7nig">https://t.co/iZetbt7nig</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1869711078340612207?ref_src=twsrc%5Etfw">December 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### アメリ VS クラウス
+
+力こそパワー！実力もあるからこその交渉術
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「『全員口封じされなくなければ、ジビアちゃんを解放しろ』っていうシーンですね」<br>ジビア　「ゴッリゴリのパワー系交渉」<br>モニカ　「ただのチンピラじゃん」<br>ティア　「けど、結果的にアメリさんと一時的な協力関係を結べたのよね」<br>クラウス「……師匠仕込みの交渉術だ」… <a href="https://t.co/BzG9M69seN">https://t.co/BzG9M69seN</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1876968347130376220?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### ござござ
 
+ランの鳳での立ち位置が（笑）  
+ござござ！
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア　（笑ってはいるが、マジで辛い時期なんだよな）<br>ティア　（……思い出すだけで、いまだ胸が痛くなる）<br>サラ　　（仲間を失った哀しみなんて想像したくもないっすよ……）<br>グレーテ（自分だけ生き残り、どれだけほど辛かったか……）<br>モニカ　（――という事実は当然、感じはするんだけど）… <a href="https://t.co/WYvC8lcMk3">https://t.co/WYvC8lcMk3</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1877341114056978735?ref_src=twsrc%5Etfw">January 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 連携
 
+グレーテ… 強く生きて…
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アネット「ジビアの姉貴っ‼‼」<br>エルナ　「ジビアお姉ちゃんっ‼‼」<br>リリィ　「おねえちゃーん」<br>モニカ　「おねえちゃーん」<br>ジビア　「シバくぞ」<br>サラ　　「ジビア先輩とボスの共闘シーンっすね」<br>エルナ　「息ぴったり……完璧なの」<br>グレーテ「……羨ましいです。ボスと軽やかに舞えるなんて」… <a href="https://t.co/OC7jP89aXH">https://t.co/OC7jP89aXH</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1878071919771337199?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 裏切り
+
+モニカの裏切りについて…  
+モニリリいいぞぉぉ  
+そしてアネットのきゅるん♡もいい！
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『灯』一同「…………………………」<br>『灯』一同「…………………………」<br>『灯』一同「…………………………」<br>『灯』一同「…………………………」<br>『灯』一同「…………………………」<br><br>クラウス「派手に裏切ったな、モニカ」<br>ジビア　「このクッソ重い空気を、よく打破してくれた‼‼」<br><br>モニカ… <a href="https://t.co/ROhEUIJJLZ">https://t.co/ROhEUIJJLZ</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1882399867315871770?ref_src=twsrc%5Etfw">January 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
