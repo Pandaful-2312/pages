@@ -12,6 +12,7 @@ tag: spyroom
 - [4巻 夢語 ティア](#4巻-夢語-ティア)
 - [5巻 愚人 エルナ](#5巻-愚人-エルナ)
 - [6巻 百鬼 ジビア](#6巻-百鬼-ジビア)
+- [7巻 氷刃 モニカ](#7巻-氷刃-モニカ)
 
 ## 概要
 
@@ -122,8 +123,9 @@ SSなし
 
 ## 6巻 百鬼 ジビア
 
-### 尋問耐久ランキング!?
+### 尋問
 
+拷問耐久ランキング!?  
 リリィが選ばれなかったわけは…  
 
 個人的ランキング！
@@ -165,3 +167,13 @@ SSなし
 そしてアネットのきゅるん♡もいい！
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『灯』一同「…………………………」<br>『灯』一同「…………………………」<br>『灯』一同「…………………………」<br>『灯』一同「…………………………」<br>『灯』一同「…………………………」<br><br>クラウス「派手に裏切ったな、モニカ」<br>ジビア　「このクッソ重い空気を、よく打破してくれた‼‼」<br><br>モニカ… <a href="https://t.co/ROhEUIJJLZ">https://t.co/ROhEUIJJLZ</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1882399867315871770?ref_src=twsrc%5Etfw">January 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 7巻 氷刃 モニカ
+
+### 極上の天才
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア　「リリィが逃げたぞっ‼‼」<br>ティア　「ひっ捕らえなさいっ‼　直ちに！」<br>エルナ　「逃がさないの！！」<br>アネット「俺様っ、本気を出しますっ‼」<br>モニカ　「……ボクも、逃げていい？」<br>グレーテ「収拾がつかなくなりますので……」<br>サラ　　「リリィ先輩が逃げ切るのを期待しましょう」… <a href="https://t.co/LMdztivECA">https://t.co/LMdztivECA</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1883500396825772292?ref_src=twsrc%5Etfw">January 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 翠蝶
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア　「『翠蝶』か」<br>リリィ　「『翠蝶』……」<br>サラ　　「『翠蝶』っすね…………」<br>三人　　「「「………………」」」<br>三人　　「「「実際、よく分からん……！」」」<br>モニカ　「まぁ、キミたち、あんまり会ってないもんね」<br>ティア　「裏でモニカの裏切りを導いていたのよね？」… <a href="https://t.co/9URQLwshZU">https://t.co/9URQLwshZU</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1885663669893378148?ref_src=twsrc%5Etfw">February 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
