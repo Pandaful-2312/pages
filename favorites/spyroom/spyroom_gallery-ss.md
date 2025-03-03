@@ -13,6 +13,7 @@ tag: spyroom
 - [5巻 愚人 エルナ](#5巻-愚人-エルナ)
 - [6巻 百鬼 ジビア](#6巻-百鬼-ジビア)
 - [7巻 氷刃 モニカ](#7巻-氷刃-モニカ)
+- [その他](#その他)
 
 ## 概要
 
@@ -133,10 +134,10 @@ SSなし
 1. リリィ
 2. ジビア
 3. グレーテ
-4. サラ
-5. モニカ
-6. エルナ
-7. アネット
+4. **サラ**
+5. **モニカ**
+6. **エルナ**
+7. **アネット**
 8. ティア
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「………………」<br>エルナ　「………………」<br>サラ　　「………………」<br>モニカ　「空気、重っ」<br>グレーテ「実際、重い展開が続きますからね」<br>ジビア　「あ、『鳳』の連中もたまに来るらしいって」<br>一同　　「！？！？？！」<br>ティア（もう時系列とか細かい矛盾はとことん無視なのね……）… <a href="https://t.co/iZetbt7nig">https://t.co/iZetbt7nig</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1869711078340612207?ref_src=twsrc%5Etfw">December 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -172,8 +173,39 @@ SSなし
 
 ### 極上の天才
 
+恋に悩むリリィとクラウス  
+さてはて、どうなるのだろうか…
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア　「リリィが逃げたぞっ‼‼」<br>ティア　「ひっ捕らえなさいっ‼　直ちに！」<br>エルナ　「逃がさないの！！」<br>アネット「俺様っ、本気を出しますっ‼」<br>モニカ　「……ボクも、逃げていい？」<br>グレーテ「収拾がつかなくなりますので……」<br>サラ　　「リリィ先輩が逃げ切るのを期待しましょう」… <a href="https://t.co/LMdztivECA">https://t.co/LMdztivECA</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1883500396825772292?ref_src=twsrc%5Etfw">January 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 翠蝶
+### 裏切りの元凶は？
+
+こういう考え方もできるのかぁ
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ジビア　「『翠蝶』か」<br>リリィ　「『翠蝶』……」<br>サラ　　「『翠蝶』っすね…………」<br>三人　　「「「………………」」」<br>三人　　「「「実際、よく分からん……！」」」<br>モニカ　「まぁ、キミたち、あんまり会ってないもんね」<br>ティア　「裏でモニカの裏切りを導いていたのよね？」… <a href="https://t.co/9URQLwshZU">https://t.co/9URQLwshZU</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1885663669893378148?ref_src=twsrc%5Etfw">February 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 秘めた恋心?
+
+全然秘めれていなかったモニカさん…  
+このSSでのアネットは切れ味がすごい!
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">グレーテ「……モニカさんが裏切りを決意するシーンですね」<br>ティア　「えぇ、リリィへの恋心が利用されたのよね」<br>エルナ　「『白蜘蛛』なの。相手の弱みをみつける男なの……」<br>ジビア　「敵ながらすげぇよな。あたしたちでさえモニカの恋心を見抜けなかったのに」<br>モニカ　「……実際、どうなの？… <a href="https://t.co/zex36GMFFz">https://t.co/zex36GMFFz</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1887133069716725885?ref_src=twsrc%5Etfw">February 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### モニカの相棒
+
+かっこよかったが…  
+毎度オチ担当のクラウスの兄貴 笑
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「モニカお姉ちゃんとティアお姉ちゃんの共闘シーンなの」<br>リリィ　「これは文句なしでカッコいいですね……！」<br>サラ　　「本当に、バッチリの決め顔っすけど――」<br><br>ティア　「まさか、この後裏切られるとはねえええぇ‼‼」<br><br>ジビア　「まぁ、さすがにモニカが酷いと思う」… <a href="https://t.co/lvwny2n1yG">https://t.co/lvwny2n1yG</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1890018721579909266?ref_src=twsrc%5Etfw">February 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### モニカの実力
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ティア　「モニカの孤独な戦いね」<br>ジビア　「CIMの精鋭相手に孤軍奮闘……すげぇな」<br>グレーテ「モニカさんの実力には、いつも驚かされますね……」<br>エルナ　「エルナもちょこっと加勢したの！」<br>アネット「俺様っ、記憶にありません」<br>エルナ　「⁉⁉⁉⁉」<br>リリィ… <a href="https://t.co/DetCfeiTox">https://t.co/DetCfeiTox</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1893270856035639763?ref_src=twsrc%5Etfw">February 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## その他
+
+### バレンタイン
+
+とある人物のチョココンプリート戦略…
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">まずクラウスからチョコをもらい、そのチョコ半分をグレーテに差し出す条件に、大量のチョコをもらう。大量チョコをリリィに渡して、お返しのチョコをもらい、そのチョコ半分を条件にモニカと交渉。モニカからチョコをもらい、かつ、ティアからチョコを強奪してもらう。モニカチョコ半分とティアチョコ… <a href="https://t.co/OyvF6ldcNL">https://t.co/OyvF6ldcNL</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1890391254816657439?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
