@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 五等分の花嫁 ライトノベル
-permalink: gotobun
-tag: gotobun/novel
+permalink: gotobun/novel
+tag: gotobun
 ---
 
 ## 概要

@@ -13,6 +13,7 @@ tag: spyroom
 - [5巻 愚人 エルナ](#5巻-愚人-エルナ)
 - [6巻 百鬼 ジビア](#6巻-百鬼-ジビア)
 - [7巻 氷刃 モニカ](#7巻-氷刃-モニカ)
+- [8巻 草原 サラ](#8巻-草原-サラ)
 - [その他](#その他)
 
 ## 概要
@@ -201,6 +202,15 @@ SSなし
 ### モニカの実力
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ティア　「モニカの孤独な戦いね」<br>ジビア　「CIMの精鋭相手に孤軍奮闘……すげぇな」<br>グレーテ「モニカさんの実力には、いつも驚かされますね……」<br>エルナ　「エルナもちょこっと加勢したの！」<br>アネット「俺様っ、記憶にありません」<br>エルナ　「⁉⁉⁉⁉」<br>リリィ… <a href="https://t.co/DetCfeiTox">https://t.co/DetCfeiTox</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1893270856035639763?ref_src=twsrc%5Etfw">February 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 8巻 草原 サラ
+
+### 暴走アネット
+
+アネットとエルナの絡み…いいねぇ…
+やっぱりサラ・クラウスは最初からわかってたんだな
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「アネット暴走状態なの……！」<br>ティア　「ちょ、ちょっと慄くわね。これは……！」<br>アネット「俺様っ、モニカの姉貴を許しませんっ！」<br>ジビア　「殺されかけたからな」<br>リリィ　「怒り自体は正当なんですよねー」<br>サラ　　「そうですね。怒るのは、無理もないっす」… <a href="https://t.co/NvpyCt8xjm">https://t.co/NvpyCt8xjm</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1896929621465309430?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## その他
 
