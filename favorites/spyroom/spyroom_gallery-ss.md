@@ -212,6 +212,10 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「アネット暴走状態なの……！」<br>ティア　「ちょ、ちょっと慄くわね。これは……！」<br>アネット「俺様っ、モニカの姉貴を許しませんっ！」<br>ジビア　「殺されかけたからな」<br>リリィ　「怒り自体は正当なんですよねー」<br>サラ　　「そうですね。怒るのは、無理もないっす」… <a href="https://t.co/NvpyCt8xjm">https://t.co/NvpyCt8xjm</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1896929621465309430?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 非選抜組
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「とうとう始まるわけですね！　非選抜組と侮られたリリィちゃんたちの逆襲が！」<br>エルナ　「リリィお姉ちゃんたちが、CIM相手に奇襲をかけるシーンなの」<br>アネット「姉貴たちっ、カッコいいですっ！」<br>モニカ　「実際、クラウスさんと『呪師』って人は、想定していたんだっけ？」… <a href="https://t.co/viD8UpCByh">https://t.co/viD8UpCByh</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1898737000334893073?ref_src=twsrc%5Etfw">March 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## その他
 
 ### バレンタイン
