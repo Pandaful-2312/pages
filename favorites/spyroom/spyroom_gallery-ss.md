@@ -216,6 +216,13 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「とうとう始まるわけですね！　非選抜組と侮られたリリィちゃんたちの逆襲が！」<br>エルナ　「リリィお姉ちゃんたちが、CIM相手に奇襲をかけるシーンなの」<br>アネット「姉貴たちっ、カッコいいですっ！」<br>モニカ　「実際、クラウスさんと『呪師』って人は、想定していたんだっけ？」… <a href="https://t.co/viD8UpCByh">https://t.co/viD8UpCByh</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1898737000334893073?ref_src=twsrc%5Etfw">March 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### サラ登場！
+
+白蜘蛛についての振り返り  
+クラウスは思ったよりも嫌ってるんだなぁ
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アネット「サラの姉貴いいいいぃっ‼‼‼‼」<br>エルナ　「サラのお姉ちゃん、かっこいいの‼‼」<br>アネット「姉貴いいいいいいぃ！」<br>エルナ　「お姉ちゃんんんんん！！」<br>ジビア　「応援上映か」<br>モニカ　「お客様、お静かに」<br>リリィ　「『白蜘蛛』さんに立ち向かうシーンですね」<br>ティア… <a href="https://t.co/g4ohjpk6Yz">https://t.co/g4ohjpk6Yz</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1903451053070369157?ref_src=twsrc%5Etfw">March 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## その他
 
 ### バレンタイン
