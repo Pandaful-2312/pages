@@ -223,6 +223,10 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アネット「サラの姉貴いいいいぃっ‼‼‼‼」<br>エルナ　「サラのお姉ちゃん、かっこいいの‼‼」<br>アネット「姉貴いいいいいいぃ！」<br>エルナ　「お姉ちゃんんんんん！！」<br>ジビア　「応援上映か」<br>モニカ　「お客様、お静かに」<br>リリィ　「『白蜘蛛』さんに立ち向かうシーンですね」<br>ティア… <a href="https://t.co/g4ohjpk6Yz">https://t.co/g4ohjpk6Yz</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1903451053070369157?ref_src=twsrc%5Etfw">March 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 秘武器・失楽園
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「『VSべリアス』戦に続き、ひたすら美味しいどこどりしているリリィちゃんです！」<br>ジビア　「『灯』のリーダーってなんだっけ？」<br>モニカ　「時間稼ぎ用の囮サンドバッグ」<br>ティア　「賑やかし特化の宴会部長」<br>アネット「しれっと美味しいところをもっていきますね！」<br>エルナ… <a href="https://t.co/ZGgAQ3OiRD">https://t.co/ZGgAQ3OiRD</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1906333112357024029?ref_src=twsrc%5Etfw">March 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## その他
 
 ### バレンタイン
