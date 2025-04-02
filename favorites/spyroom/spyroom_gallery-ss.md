@@ -14,6 +14,7 @@ tag: spyroom
 - [6巻 百鬼 ジビア](#6巻-百鬼-ジビア)
 - [7巻 氷刃 モニカ](#7巻-氷刃-モニカ)
 - [8巻 草原 サラ](#8巻-草原-サラ)
+- [9巻 我楽多 アネット](#9巻-我楽多-アネット)
 - [その他](#その他)
 
 ## 概要
@@ -226,6 +227,12 @@ SSなし
 ### 秘武器・失楽園
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「『VSべリアス』戦に続き、ひたすら美味しいどこどりしているリリィちゃんです！」<br>ジビア　「『灯』のリーダーってなんだっけ？」<br>モニカ　「時間稼ぎ用の囮サンドバッグ」<br>ティア　「賑やかし特化の宴会部長」<br>アネット「しれっと美味しいところをもっていきますね！」<br>エルナ… <a href="https://t.co/ZGgAQ3OiRD">https://t.co/ZGgAQ3OiRD</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1906333112357024029?ref_src=twsrc%5Etfw">March 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 9巻 我楽多 アネット
+
+### ウェディングドレス
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「頭がああああああぁ‼‼」<br>モニカ　「…………っ」<br>ジビア　「もう無理、なんかもう、しんどい！」<br><br>エルナ　「なんなの、あれは？」<br>ティア　「バカンスのトラウマを呼び起こされた者たちね」<br>サラ　　「今はグレーテ先輩の姿を注目しましょうよ……」… <a href="https://t.co/ORzjHy9nuI">https://t.co/ORzjHy9nuI</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1907421654214746371?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## その他
 
