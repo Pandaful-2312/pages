@@ -234,6 +234,18 @@ SSなし
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「頭がああああああぁ‼‼」<br>モニカ　「…………っ」<br>ジビア　「もう無理、なんかもう、しんどい！」<br><br>エルナ　「なんなの、あれは？」<br>ティア　「バカンスのトラウマを呼び起こされた者たちね」<br>サラ　　「今はグレーテ先輩の姿を注目しましょうよ……」… <a href="https://t.co/ORzjHy9nuI">https://t.co/ORzjHy9nuI</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1907421654214746371?ref_src=twsrc%5Etfw">April 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 引退についてのビジョン
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「ケンカしているの！」<br>アネット「ウルウル……俺様っ、姉貴たちのケンカなんて見たくないですっ！！」<br>サラ　　「大丈夫っすよ。必要なぶつかり合いっす」<br>ティア　「その通り。気にしないで」<br>モニカ　「ところで、今のアネットのクソゲボ演技なに？」<br><br>リリィ… <a href="https://t.co/gR9ovpKGNt">https://t.co/gR9ovpKGNt</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1908860593177755652?ref_src=twsrc%5Etfw">April 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 海賊船破壊…
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">――　囲み取材　――<br><br>響くシャッター音と焚かれるフラッシュ<br>駅に現れたリリィ・ジビア・モニカの前に、記者たちが殺到する。<br><br>キュール「海賊船の発見、おめでとうございます！」<br>ファルマ「世紀の大発見だねぇ。バカンス中に！」<br>キュール「その想い、お聞かせください！」… <a href="https://t.co/FLnYDeT1WU">https://t.co/FLnYDeT1WU</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1909938639334977954?ref_src=twsrc%5Etfw">April 9, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 双子登場！
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ルーカス「ルーカスお兄さんだよー」<br>ヴィレ　「ヴィレお兄さんだよー」<br><br>リリィ　「…………………………」<br>ジビア　「…………………………」<br>グレーテ「…………………………」<br>ティア　「…………………………」<br>エルナ　「…………………………」<br><br>アネット「どこの誰です？… <a href="https://t.co/mT9uVCWZbF">https://t.co/mT9uVCWZbF</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1912857561629643169?ref_src=twsrc%5Etfw">April 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## その他
 
 ### バレンタイン
