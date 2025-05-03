@@ -15,6 +15,7 @@ tag: spyroom
 - [7巻 氷刃 モニカ](#7巻-氷刃-モニカ)
 - [8巻 草原 サラ](#8巻-草原-サラ)
 - [9巻 我楽多 アネット](#9巻-我楽多-アネット)
+- [10巻 高天原 サラ](#10巻-高天原-サラ)
 - [その他](#その他)
 
 ## 概要
@@ -245,6 +246,12 @@ SSなし
 ### 双子登場！
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ルーカス「ルーカスお兄さんだよー」<br>ヴィレ　「ヴィレお兄さんだよー」<br><br>リリィ　「…………………………」<br>ジビア　「…………………………」<br>グレーテ「…………………………」<br>ティア　「…………………………」<br>エルナ　「…………………………」<br><br>アネット「どこの誰です？… <a href="https://t.co/mT9uVCWZbF">https://t.co/mT9uVCWZbF</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1912857561629643169?ref_src=twsrc%5Etfw">April 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 革命始動！
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">エルナ　「とうとう始まり！　革命任務なの！」<br>アネット「始まって１年経つんですけどねっ！」<br>リリィ　「うぅ……立派になりましたね、エルナちゃんとアネットちゃん」<br>ジビア　「うん、なんか目頭が熱くなる……」<br>グレーテ「これが……子育ての感動……！」<br>ティア　「結局、全員が保護者なのね」… <a href="https://t.co/hl2AocEIvk">https://t.co/hl2AocEIvk</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1916106901542310311?ref_src=twsrc%5Etfw">April 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 10巻 高天原 サラ
 
 ## その他
 
