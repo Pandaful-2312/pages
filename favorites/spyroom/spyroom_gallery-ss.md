@@ -253,6 +253,10 @@ SSなし
 
 ## 10巻 高天原 サラ
 
+### アネット・エルナの学園生活
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リリィ　「カッコいいエルナちゃんですね！」<br>ジビア　「おぉー。こんな顔もできるんだ」<br>サラ　　「いかなる時でも怯まないアネット先輩も凄みがありますね」<br>エルナ　「のぉほほー！！」<br>アネット「んふふふふーん！！」<br>モニカ　「どんな威張り方？」<br>ティア… <a href="https://t.co/VSed03sQCn">https://t.co/VSed03sQCn</a></p>&mdash; 竹町『スパイ教室』 (@take_machi_) <a href="https://twitter.com/take_machi_/status/1919006144791785483?ref_src=twsrc%5Etfw">May 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## その他
 
 ### バレンタイン
